@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Director()
+comment1.params=
+comment1.target=int\ getInteger()
+comment1.text=\ \r\n\ getInteger()\ returns\ an\ integer\ value.\ Exception\ handling\ is\ used\ to\ trap\r\n\ invalid\ data\ -\ including\ floating\ point\ numbers,\ non-numeric\ characters\r\n\ and\ no\ data.\ In\ the\ event\ of\ an\ exception,\ the\ user\ is\ prompted\ to\ enter\r\n\ the\ correct\ data\ in\ the\ correct\ format.\r\n\ \r\n\ @return\ validated\ int\ value\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getString()
+comment2.text=\ \r\n\ getString()\ returns\ a\ String\ entered\ at\ the\ keyboard.\r\n\ @return\ String\ value\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

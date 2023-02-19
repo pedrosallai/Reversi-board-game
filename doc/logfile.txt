@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_40\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Slavomir\1. Software development\####PROJECT####\final
+-d
+C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Slavomir\1. Software development\####PROJECT####\final\GameBoard.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Slavomir\1. Software development\####PROJECT####\final\GameBoard.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_40
+Building tree for all the packages and classes...
+Generating C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc\GameBoard.html...
+C:\Users\Slavomir\1. Software development\####PROJECT####\final\GameBoard.java:242: warning - @return: is an unknown tag.
+C:\Users\Slavomir\1. Software development\####PROJECT####\final\GameBoard.java:1258: warning - @return: is an unknown tag.
+Generating C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc\package-frame.html...
+Generating C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc\package-summary.html...
+Generating C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc\allclasses-frame.html...
+Generating C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc\allclasses-noframe.html...
+Generating C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc\index.html...
+Generating C:\Users\Slavomir\1. Software development\####PROJECT####\final\doc\stylesheet.css...
+2 warnings

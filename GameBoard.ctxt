@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameBoard()
+comment0.text=\r\n\ Constructor\ -\ initialises\ the\ starting\ board\r\n\r\n
+comment1.params=
+comment1.target=void\ displayBoard()
+comment1.text=\r\n\ Method\ -\ displays\ the\ updated\ board\ after\ each\ move\r\n\r\n
+comment2.params=
+comment2.target=void\ currentScore()
+comment2.text=\r\n\ Method\ -\ displays\ the\ current\ score\ of\ the\ game\r\n\r\n
+comment3.params=
+comment3.target=boolean\ moveAvailability()
+comment3.text=\r\n\ Method\ -\ checks\ the\ amount\ of\ playable\ squares,\ if\ no\ move\ can\ be\ made,\ passes\ the\ turn\ to\ the\ next\ player\r\n\r\n\ @return\:\ boolean\ play\r\n
+numComments=4
